@@ -9,3 +9,5 @@
 25.01.29 웹 응용(인터넷 및 서버) [2025-01-29](https://github.com/100-hours-a-week/toby-til/blob/86698a1e0150ea13fefb751c7d0040725d92bda1/Jan/2025-01-29.md)
 
 25.01.30 Git remote에서 commit 삭제 [2025-01-30](https://github.com/100-hours-a-week/toby-til/blob/40794f50a23d277f13aa51fb2a3b5b1fb4c7f940/Jan/2025-01-30.md)
+
+25.01.31 쿠키 및 세션 [2025-01-31](https://github.com/100-hours-a-week/toby-til/blob/5915d025b9f83c38cb76b9e1ce864da4e27e0d87/Jan/2025-01-31.md)
