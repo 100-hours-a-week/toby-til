@@ -13,5 +13,7 @@
 25.01.31 쿠키 및 세션 [2025-01-31](https://github.com/100-hours-a-week/toby-til/blob/5915d025b9f83c38cb76b9e1ce864da4e27e0d87/Jan/2025-01-31.md)
 
 
-### [2월 첫째 주, 1주차] : 네트워크
+### [2월 첫째 주, 3주차] : 네트워크
 25.02.03 네트워크 OSI 7계층 [2025-02-03](https://github.com/100-hours-a-week/toby-til/blob/5d30c2bf7f432e8b2a653d3bf7363ec2b3343334/Jan/2025-02-03.md)
+
+25.02.04 패킷트레이서 실습과 STP [2025-02-04](https://github.com/100-hours-a-week/toby-til/blob/590e849a6d3419bbfd234d1b1492236e50f24aa5/Jan/2025-02-04.md)
