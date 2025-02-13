@@ -29,3 +29,5 @@
 25.02.10 도커 개념 및 명령어 [2025-02-10](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-10.md)
 
 25.02.11 도커 실습 및 카카오 크램폴린 [2025-02-11](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-11.md)
+
+25.02.13 Docker Compose 및 GitLab & GitLab Runner [2025-02-13](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-13.md)
