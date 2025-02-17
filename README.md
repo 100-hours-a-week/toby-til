@@ -33,3 +33,6 @@
 25.02.13 Docker Compose 및 GitLab & GitLab Runner [2025-02-13](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-13.md)
 
 25.02.14 도커 실습 과제 및 Docker compose 키워드 [2025-02-14](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-14.md)
+
+### [2월 셋째 주, 5주차] : 쿠버네티스
+25.02.17 쿠버네티스 개념 [2025-02-17](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-17.md)
