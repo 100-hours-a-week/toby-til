@@ -36,3 +36,5 @@
 
 ### [2월 셋째 주, 5주차] : 쿠버네티스
 25.02.17 쿠버네티스 개념 [2025-02-17](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-17.md)
+
+25.02.18 쿠버네티스 개념(추가) [2025-02-18](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-18.md)
