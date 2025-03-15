@@ -46,3 +46,5 @@
 ### [3월 둘째 주, 8주차] : CICD 툴
 
 25.03.13 Jenkins 개념 [2025-03-13](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-13.md)
+
+25.03.14 ArgoCD 개념 [2025-03-14](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-14.md)
