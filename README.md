@@ -41,7 +41,7 @@
 
 ### [2월 넷째 주, 6주차] : AWS
 
-25.02.24 쿠버네티스 개념(추가) [2025-02-24](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-24.md)
+25.02.24 AWS 개념 [2025-02-24](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-24.md)
 
 ### [3월 둘째 주, 8주차] : CICD 툴
 
@@ -50,3 +50,9 @@
 25.03.14 ArgoCD 개념 [2025-03-14](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-14.md)
 
 25.03.15 ArgoCD 개념 마무리 [2025-03-15](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-15.md)
+
+### [3월 셋째 주, 9주차] : Terraform
+
+25.03.18 ArgoCD 개념 마무리 [2025-03-18](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-18.md)
+
+25.03.19 ArgoCD 개념 마무리 [2025-03-19](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-19.md)
