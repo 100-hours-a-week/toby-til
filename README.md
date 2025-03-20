@@ -35,6 +35,7 @@
 25.02.14 도커 실습 과제 및 Docker compose 키워드 [2025-02-14](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-14.md)
 
 ### [2월 셋째 주, 5주차] : 쿠버네티스
+
 25.02.17 쿠버네티스 개념 [2025-02-17](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-17.md)
 
 25.02.18 쿠버네티스 개념(추가) [2025-02-18](https://github.com/100-hours-a-week/toby-til/blob/main/Feb/2025-02-18.md)
@@ -56,3 +57,5 @@
 25.03.18 ArgoCD 개념 마무리 [2025-03-18](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-18.md)
 
 25.03.19 ArgoCD 개념 마무리 [2025-03-19](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-19.md)
+
+25.03.20 terraform 코드 구현 및 프로젝트 전략 + Q&A [2025-03-20](https://github.com/100-hours-a-week/toby-til/blob/main/Mar/2025-03-20.md)
